@@ -45,7 +45,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ![Screenshot](screenshot.png)
 
-![Screenshot_FB](screenshot_fb.png)
+![Screenshot_FB](capture.png)
 
 ### Usage:
 ```bash
